@@ -61,6 +61,8 @@ public class ThereAndBackAgain {
 			System.out.println(thisTraveler.getName() + " has traveled " + thisTraveler.getDistanceTraveled() + " miles.");
 			
 		}
+		
+		//Make sure your code prints out the name and distances party2 has traveled.
 			
 	}
 	
@@ -85,8 +87,6 @@ public class ThereAndBackAgain {
 			thisTraveler.travel(miles);
 			
 		}
-	
-		//Make sure your code prints out the name and distances party2 has traveled.
 
 	}
 	
